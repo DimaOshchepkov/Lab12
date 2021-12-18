@@ -1,0 +1,3 @@
+﻿  fail.cpp
+C:\Users\odo20\source\repos\Lab12\Lab12\fail.cpp(110): warning C4715: checkBreakets: значение возвращается не при всех путях выполнения
+  Lab12.vcxproj -> C:\Users\odo20\source\repos\Lab12\x64\Debug\Lab12.exe
